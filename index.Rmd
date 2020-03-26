@@ -4,4 +4,6 @@
 
 ![](video/single-doc-Rmd.gif)
 
+# And knit it
+
 ![](video/single-doc-knit.gif)
