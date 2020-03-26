@@ -11,3 +11,8 @@
 # And rename it
 
 ![](video/single-doc-rename.gif)
+
+
+# And drag n drop it
+
+![](video/single-doc-dnd.gif)
