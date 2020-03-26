@@ -7,3 +7,7 @@
 # And knit it
 
 ![](video/single-doc-knit.gif)
+
+# And rename it
+
+![](video/single-doc-rename.gif)
