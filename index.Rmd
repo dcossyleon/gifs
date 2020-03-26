@@ -3,3 +3,5 @@
 
 
 ![](video/single-doc-Rmd.gif)
+
+![](video/single-doc-knit.gif)
