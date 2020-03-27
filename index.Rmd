@@ -16,3 +16,9 @@
 # And drag n drop it
 
 ![](video/single-doc-dnd.gif)
+
+
+# Stay organized
+
+![](video/stay-organized.gif)
+
