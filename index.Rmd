@@ -20,5 +20,5 @@
 
 # Stay organized
 
-![](video/stay-organized.gif)
+![](video/stay-organized1.gif)
 
