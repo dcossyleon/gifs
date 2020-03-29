@@ -22,3 +22,6 @@
 
 ![](video/stay-organized1.gif)
 
+# distill gif
+
+![](video/distill-intro.gif)
